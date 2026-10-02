@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-MCA graduate (HBTU Kanpur, 2026) with experience in **LLM Evaluation**, **Red-Teaming**, and **Python Development**[cite: 1]. I specialize in surfacing model hallucinations, designing adversarial test cases, evaluating reasoning quality, and building end-to-end AI applications using RAG architectures[cite: 1].
+MCA graduate (HBTU Kanpur, 2026) with experience in **LLM Evaluation**, **Red-Teaming**, and **Python Development**. I specialize in surfacing model hallucinations, designing adversarial test cases, evaluating reasoning quality, and building end-to-end AI applications using RAG architectures.
 
-- 🎯 **Looking For:** AI Engineer | LLM Evaluation Specialist | Python Developer[cite: 1]
-- 💼 **Experience:** Evaluated frontier models and authored technical benchmarks at Outlier & Handshake AI[cite: 1].
+- 🎯 **Looking For:** AI Engineer | LLM Evaluation Specialist | Python Developer
+- 💼 **Experience:** Evaluated frontier models and authored technical benchmarks at Outlier & Handshake AI.
 - 🛠️ **Current Focus:** Advanced Retrieval-Augmented Generation (RAG), LLM Alignment, and Data Structures.
-- 🎓 **Education:** MCA from HBTU Kanpur (CGPA: 8.10)[cite: 1] | BCA from Gossner College, Ranchi (CGPA: 8.9)[cite: 1].
+- 🎓 **Education:** MCA from HBTU Kanpur (CGPA: 8.10) | BCA from Gossner College, Ranchi (CGPA: 8.9).
 
 ---
 
@@ -51,17 +51,30 @@ MCA graduate (HBTU Kanpur, 2026) with experience in **LLM Evaluation**, **Red-Te
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Repositories
 
-- 🔍 **[RAG-Based Document Search](https://github.com/Ritik13012002/Rag-Doc-Search-Agent)**
-  - Question-answering engine over PDF/TXT files using dynamic chunking and ChromaDB embeddings[cite: 1].
-  - Implemented source-attributed citations and an interactive Streamlit UI[cite: 1].
-  - *Tech:* Python, ChromaDB, OpenAI API, Streamlit[cite: 1]
+- 🔍 **[Rag-Doc-Search-Agent](https://github.com/Ritik13012002/Rag-Doc-Search-Agent)**
+  - Question-answering engine over PDF/TXT files using dynamic chunking and ChromaDB embeddings.
+  - Implemented source-attributed citations and an interactive Streamlit UI.
+  - *Tech:* Python, ChromaDB, OpenAI API, Streamlit
 
-- 📈 **[Air Quality Index (AQI) Predictor](https://github.com/Ritik13012002)**
-  - Time-series machine learning model predicting next-day AQI from multi-year environmental records[cite: 1].
-  - Engineered lag features, rolling averages, and residual evaluation[cite: 1].
-  - *Tech:* Python, Scikit-learn, Pandas, NumPy, Matplotlib[cite: 1]
+- 🌍 **[AQI Predictor System](https://github.com/Ritik13012002/AQI-Predictor-System)**
+  - Time-series machine learning model predicting next-day AQI from multi-year environmental records.
+  - Engineered lag features, rolling averages, and residual evaluation.
+  - *Tech:* Python, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit
+
+- ⚖️ **[LegalMind AI](https://github.com/Ritik13012002/LegalMind-AI)**
+  - Collaborative AI system for analyzing and retrieving legal documents.
+  - Structured and developed the backend using advanced vector search and fast APIs.
+  - *Tech:* Python, Pinecone, Groq, FastAPI
+
+- 💳 **[Janadesh](https://github.com/Ritik13012002/Janadesh)**
+  - Full-stack web application featuring user authentication, database integration, and dynamic routing.
+  - *Tech:* Vite, Node.js, Express, MySQL
+
+- 📝 **[Zidio Blog Platform](https://github.com/Ritik13012002/zidio-blog-platform)**
+  - Collaborative blog platform configured with frontend setup and dependencies.
+  - *Tech:* React.js, REST APIs
 
 ---
 
